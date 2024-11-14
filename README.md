@@ -68,7 +68,8 @@ Developed by: Register Number*/
 
 	source /cadence/install/cshrc (mention the path of the tools) 
 
-      (The path of cshrc could vary depending on the installation destination)
+      ![3](https://github.com/user-attachments/assets/b42bb00b-58be-4665-9355-b99095131701)
+
       
 	After this you can see the window like below 
 
@@ -83,12 +84,16 @@ or
 •	linux:/> nclaunch& // On subsequent calls to NCVERILOG 
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
+![2](https://github.com/user-attachments/assets/808afa83-3191-45b6-8b45-40fb10118b6a)
+
 
 ### Fig 4:Setting Multi-step simulation
 
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
+![1](https://github.com/user-attachments/assets/4df32293-33d2-4c0e-94c3-9d4d89de25a6)
+
 
 ### Fig 5:cds.lib file Creation
 
