@@ -188,20 +188,21 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 ### Fig 10: Design Browser window for simulation
 
-![Screenshot (8)](https://github.com/user-attachments/assets/4080cd61-49eb-4ec6-99ca-01eebedb325f)
+![Screenshot 2024-10-05 162928](https://github.com/user-attachments/assets/36328ee0-f12f-4125-9c8b-3bb0610f5b51)
+
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
 
-![Screenshot (9)](https://github.com/user-attachments/assets/d8d6d6fe-e27c-44b3-a348-56e0bc67eea6)
+![Screenshot 2024-11-23 155417](https://github.com/user-attachments/assets/d3fb1802-42f5-4468-bac9-5cf6049fb4ce)
 
 
 ### Fig 12: Simulation Waveform Window
 
-![Screenshot (10)](https://github.com/user-attachments/assets/319fa67f-8cf2-445a-961d-be376e80c3e3)
+![Screenshot 2024-10-05 162951](https://github.com/user-attachments/assets/bbf24dc8-94ff-4266-bbee-05e7cf18f9d0)
 
 ## Result: 
+The verilog code for 4bit adder and verify the functionality using Test bench has been done and verified.
 
-The 32 bit ALU supporting four logical and four arithmetic operations,use case statement and if statement for ALU behavioral modeling has been done and verified.
 
 
 
